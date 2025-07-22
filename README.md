@@ -1,6 +1,13 @@
 # ViewFromAbove
 Software to rectify Solar and Lunar Images to see features on the surface as they would appear if viewed from above, thus removing any foreshortening of features on the limb of these objects.
 
+## Screenshots
+This is the image input
+![screenshot](ScreenShots/Screenshot_ViewFromAboveIPImageSun.jpg)
+
+And this is the ViewFromAbove
+![screenshot](ScreenShots/Screenshot_ViewFromAboveOPImageSun.jpg)
+
 ## Installation
 Until I can work out how to make installation packages the only way to use it is to install Gambas* for your Linux distribution then download and un-pack the source files then open the project in Gambas, from there you can make an executable (project menu)
 
