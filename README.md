@@ -10,6 +10,9 @@ Software to rectify Solar and Lunar Images to see features on the surface as the
 ## Installation
 ### Using Installation binaries
 If you have a Debin,Ubuntu or derivative distribution that can process *.deb files then simply download the appropriate *.deb file from here https://github.com/SimonTelescopium/ViewFromAbove/releases once downloaded, double click it this will open your software center where you can click Install.
+Once installed you will find ViewFromAbove under 'Science & Maths' in your menu.
+
+
 ### Installation - From Source
 To install from source, download and un-pack the source files then open the project in Gambas*, from there you can make an executable (project menu). Gambas is available from the software store on many distributions, otherwise install from their website.
 
